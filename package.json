@@ -1,0 +1,19 @@
+{
+  "name": "@popcor245/classes",
+  "version": "1.0.0",
+  "description": "A sample using classes and postgres",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popcorn245/classes.git"
+  },
+  "author": "Popcorn245",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popcorn245/classes/issues"
+  },
+  "homepage": "https://github.com/popcorn245/classes#readme"
+}
