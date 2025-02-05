@@ -5,3 +5,10 @@ export type UserObject = {
     last_name?: string;
     email?: string;
 };
+
+export type VetObject = {
+    id?: number;
+    name?: string;
+    email?: string;
+    integrator_id?: number;
+};
